@@ -5,6 +5,11 @@ Generate [Apache Avro][] schemas for Python types including standard library [da
 :blue_book: Documentation: https://py-avro-schema.readthedocs.io
 
 
+## Requirements
+
+- Python 3.12+
+
+
 ## Installing
 
 ```shell
