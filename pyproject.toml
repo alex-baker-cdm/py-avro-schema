@@ -28,6 +28,8 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Typing :: Typed",
 ]
 keywords = [
@@ -47,7 +49,7 @@ keywords = [
 ]
 
 # Minimum supported Python version
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 # All runtime dependencies that must be packaged, pin major version only.
 dependencies = [
     "avro~=1.10",
